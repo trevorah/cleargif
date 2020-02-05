@@ -10,5 +10,7 @@ A silly experiment in transparent animations. Converts any gif to transparent ap
 ### After (apng)
 ![](example/alan.png)
 
-Same image, different background:
-> ![](example/alan.png)
+| Same image, different backgrounds |
+| --- |
+| ![](example/alan.png) |
+| ![](example/alan.png) |
